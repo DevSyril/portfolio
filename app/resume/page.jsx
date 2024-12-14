@@ -2,7 +2,7 @@
 
 import React from 'react'
 import { FaHtml5, FaCss3, FaJs, FaPhp, FaJava, FaReact, FaNodeJs, FaFigma } from 'react-icons/fa'
-import { SiTailwindcss, SiNextdotjs, SiWordpress, SiExpress, SiLaravel, SiJquery, SiBootstrap, SiLinkedin } from 'react-icons/si'
+import { SiTailwindcss, SiMongodb, SiMysql, SiFlutter, SiWordpress, SiExpress, SiLaravel, SiJquery, SiBootstrap, SiLinkedin } from 'react-icons/si'
 import { Tabs, TabsContent, TabsList, TabsTrigger } from '@/components/ui/tabs'
 import { Tooltip, TooltipContent, TooltipProvider, TooltipTrigger } from '@/components/ui/tooltip'
 import { motion } from 'framer-motion'
@@ -143,6 +143,18 @@ const skills = {
     {
       name: "Bootstrap",
       icon: <SiBootstrap />
+    },
+    {
+      name: "MongoDb",
+      icon: <SiMongodb />
+    },
+    {
+      name: "Mysql",
+      icon: <SiMysql />
+    },
+    {
+      name: "Flutter",
+      icon: <SiFlutter />
     },
   ]
 }
