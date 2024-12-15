@@ -10,7 +10,7 @@ const services = [
     num: '01',
     title: 'Développement Web',
     description: "Je conçois et développe les sites web (Vitrines / E-commerce), portfolios personnels et même les applications web de vos entreprises, vous donnant de meilleures chances d'accroître vos résultats financiers ou visibilité.",
-    href: ""
+    href: "/web"
   },
   {
     num: '02',
