@@ -21,7 +21,7 @@ const Princing = () => {
   
           <a
             className="mt-4 block rounded border border-indigo-600 bg-indigo-600 px-12 py-3 text-center text-sm font-medium text-white hover:bg-transparent hover:text-indigo-600 focus:outline-none focus:ring active:text-indigo-500 sm:mt-6"
-            href="#"
+            href="/contact"
           >
             Commander
           </a>
@@ -73,7 +73,7 @@ const Princing = () => {
                 <path strokeLinecap="round" strokeLinejoin="round" d="M4.5 12.75l6 6 9-13.5" />
               </svg>
   
-              <span className="text-gray-700"> Email professionnel </span>
+              <span className="text-gray-700"> Assistance et Maintenance </span>
             </li>
   
             <li className="flex items-center gap-1">
@@ -88,7 +88,7 @@ const Princing = () => {
                 <path strokeLinecap="round" strokeLinejoin="round" d="M6 18L18 6M6 6l12 12" />
               </svg>
   
-              <span className="text-gray-700"> Help center access </span>
+              <span className="text-gray-700"> Domaine offert </span>
             </li>
   
             <li className="flex items-center gap-1">
@@ -103,23 +103,9 @@ const Princing = () => {
                 <path strokeLinecap="round" strokeLinejoin="round" d="M6 18L18 6M6 6l12 12" />
               </svg>
   
-              <span className="text-gray-700"> Phone support </span>
+              <span className="text-gray-700"> Espace d'hébergement </span>
             </li>
   
-            <li className="flex items-center gap-1">
-              <svg
-                xmlns="http://www.w3.org/2000/svg"
-                fill="none"
-                viewBox="0 0 24 24"
-                strokeWidth="1.5"
-                stroke="currentColor"
-                className="size-5 text-red-700"
-              >
-                <path strokeLinecap="round" strokeLinejoin="round" d="M6 18L18 6M6 6l12 12" />
-              </svg>
-  
-              <span className="text-gray-700"> Community access </span>
-            </li>
           </ul>
         </div>
       </div>
@@ -141,14 +127,14 @@ const Princing = () => {
   
           <a
             className="mt-4 block rounded border border-indigo-600 bg-indigo-600 px-12 py-3 text-center text-sm font-medium text-white hover:bg-transparent hover:text-indigo-600 focus:outline-none focus:ring active:text-indigo-500 sm:mt-6"
-            href="#"
+            href="/contact"
           >
             Commander
           </a>
         </div>
   
         <div className="p-6 sm:px-8">
-          <p className="text-lg font-medium text-gray-900 sm:text-xl">What's included:</p>
+          <p className="text-lg font-medium text-gray-900 sm:text-xl">Inclus dans l'offre:</p>
   
           <ul className="mt-2 space-y-2 sm:mt-4">
             <li className="flex items-center gap-1">
@@ -163,7 +149,7 @@ const Princing = () => {
                 <path strokeLinecap="round" strokeLinejoin="round" d="M4.5 12.75l6 6 9-13.5" />
               </svg>
   
-              <span className="text-gray-700"> 20 users </span>
+              <span className="text-gray-700"> Panier d'achat </span>
             </li>
   
             <li className="flex items-center gap-1">
@@ -178,7 +164,7 @@ const Princing = () => {
                 <path strokeLinecap="round" strokeLinejoin="round" d="M4.5 12.75l6 6 9-13.5" />
               </svg>
   
-              <span className="text-gray-700"> 5GB of storage </span>
+              <span className="text-gray-700"> 05 Moyens de paiements </span>
             </li>
   
             <li className="flex items-center gap-1">
@@ -193,22 +179,7 @@ const Princing = () => {
                 <path strokeLinecap="round" strokeLinejoin="round" d="M4.5 12.75l6 6 9-13.5" />
               </svg>
   
-              <span className="text-gray-700"> Email support </span>
-            </li>
-  
-            <li className="flex items-center gap-1">
-              <svg
-                xmlns="http://www.w3.org/2000/svg"
-                fill="none"
-                viewBox="0 0 24 24"
-                strokeWidth="1.5"
-                stroke="currentColor"
-                className="size-5 text-indigo-700"
-              >
-                <path strokeLinecap="round" strokeLinejoin="round" d="M4.5 12.75l6 6 9-13.5" />
-              </svg>
-  
-              <span className="text-gray-700"> Help center access </span>
+            <span className="text-gray-700"> Assistance et Maintenance </span>
             </li>
   
             <li className="flex items-center gap-1">
@@ -223,7 +194,7 @@ const Princing = () => {
                 <path strokeLinecap="round" strokeLinejoin="round" d="M6 18L18 6M6 6l12 12" />
               </svg>
   
-              <span className="text-gray-700"> Phone support </span>
+              <span className="text-gray-700"> Domaine offert </span>
             </li>
   
             <li className="flex items-center gap-1">
@@ -238,7 +209,7 @@ const Princing = () => {
                 <path strokeLinecap="round" strokeLinejoin="round" d="M6 18L18 6M6 6l12 12" />
               </svg>
   
-              <span className="text-gray-700"> Community access </span>
+              <span className="text-gray-700"> Espace d'hébergement </span>
             </li>
           </ul>
         </div>
@@ -261,14 +232,14 @@ const Princing = () => {
   
           <a
             className="mt-4 block rounded border border-indigo-600 bg-indigo-600 px-12 py-3 text-center text-sm font-medium text-white hover:bg-transparent hover:text-indigo-600 focus:outline-none focus:ring active:text-indigo-500 sm:mt-6"
-            href="#"
+            href="/contact"
           >
         Commander
           </a>
         </div>
   
         <div className="p-6 sm:px-8">
-          <p className="text-lg font-medium text-gray-900 sm:text-xl">What's included:</p>
+          <p className="text-lg font-medium text-gray-900 sm:text-xl">Inclus dans l'offre:</p>
   
           <ul className="mt-2 space-y-2 sm:mt-4">
             <li className="flex items-center gap-1">
@@ -283,7 +254,7 @@ const Princing = () => {
                 <path strokeLinecap="round" strokeLinejoin="round" d="M4.5 12.75l6 6 9-13.5" />
               </svg>
   
-              <span className="text-gray-700"> 50 users </span>
+              <span className="text-gray-700"> Accessibilité 24/7 </span>
             </li>
   
             <li className="flex items-center gap-1">
@@ -298,7 +269,7 @@ const Princing = () => {
                 <path strokeLinecap="round" strokeLinejoin="round" d="M4.5 12.75l6 6 9-13.5" />
               </svg>
   
-              <span className="text-gray-700"> 20GB of storage </span>
+              <span className="text-gray-700"> Gain de temps </span>
             </li>
   
             <li className="flex items-center gap-1">
@@ -313,7 +284,7 @@ const Princing = () => {
                 <path strokeLinecap="round" strokeLinejoin="round" d="M4.5 12.75l6 6 9-13.5" />
               </svg>
   
-              <span className="text-gray-700"> Email support </span>
+              <span className="text-gray-700"> Outils d'analyse </span>
             </li>
   
             <li className="flex items-center gap-1">
@@ -323,12 +294,12 @@ const Princing = () => {
                 viewBox="0 0 24 24"
                 strokeWidth="1.5"
                 stroke="currentColor"
-                className="size-5 text-indigo-700"
+                className="size-5 text-red-700"
               >
-                <path strokeLinecap="round" strokeLinejoin="round" d="M4.5 12.75l6 6 9-13.5" />
+                <path strokeLinecap="round" strokeLinejoin="round" d="M6 18L18 6M6 6l12 12" />
               </svg>
   
-              <span className="text-gray-700"> Help center access </span>
+              <span className="text-gray-700"> Domaine offert </span>
             </li>
   
             <li className="flex items-center gap-1">
@@ -338,27 +309,12 @@ const Princing = () => {
                 viewBox="0 0 24 24"
                 strokeWidth="1.5"
                 stroke="currentColor"
-                className="size-5 text-indigo-700"
+                className="size-5 text-red-700"
               >
-                <path strokeLinecap="round" strokeLinejoin="round" d="M4.5 12.75l6 6 9-13.5" />
+                <path strokeLinecap="round" strokeLinejoin="round" d="M6 18L18 6M6 6l12 12" />
               </svg>
   
-              <span className="text-gray-700"> Phone support </span>
-            </li>
-  
-            <li className="flex items-center gap-1">
-              <svg
-                xmlns="http://www.w3.org/2000/svg"
-                fill="none"
-                viewBox="0 0 24 24"
-                strokeWidth="1.5"
-                stroke="currentColor"
-                className="size-5 text-indigo-700"
-              >
-                <path strokeLinecap="round" strokeLinejoin="round" d="M4.5 12.75l6 6 9-13.5" />
-              </svg>
-  
-              <span className="text-gray-700"> Community access </span>
+              <span className="text-gray-700"> Espace d'hébergement </span>
             </li>
           </ul>
         </div>
